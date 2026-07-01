@@ -1,0 +1,166 @@
+canonical_identifier: bkk:krp/KR6j0681/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0681/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經正脉疏科
+  identifiers:
+    krp: KR6j0681
+    cbeta: X12n0273
+    cbeta_old_id: X12n0273
+    authorityid: CA0002013
+    json_key: X0273
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X12/X12n0273.xml
+    old_id: X12n0273
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0681_000-X.yaml, hash: 'sha256:28c45acd9a67692f6992b55b234357dd9ca337f5dd9ec95f3902822b21f3761e'}
+  - {seq: 1, filename: KR6j0681_001-X.yaml, hash: 'sha256:845693b31045bb323510f7813167c9693bb2afac79d5ac51b1f68cd758c20d2f'}
+  - {seq: 2, filename: KR6j0681_002-X.yaml, hash: 'sha256:c7451dd53dbed30a11b46ba75e540cb5f64dbd3223333c69a4a90b624d597314'}
+  - {seq: 3, filename: KR6j0681_003-X.yaml, hash: 'sha256:107d5110ca4f5c988512e70ca7306ce17fab52d1b644210726c199336866555c'}
+  - {seq: 4, filename: KR6j0681_004-X.yaml, hash: 'sha256:23815fc00ff79248a7a84e467b1fdad3298fadb5544f2cdbac5e40761d33acb0'}
+  - {seq: 5, filename: KR6j0681_005-X.yaml, hash: 'sha256:c096f39dd5e3f982eb88df0fe663ca332c01f48a681d167908ca48744054d38b'}
+  - {seq: 6, filename: KR6j0681_006-X.yaml, hash: 'sha256:efd3d599a3e26038cc2d0d079c45bfdb1de9159c90720e4357ed0a3fc14c5b28'}
+  - {seq: 7, filename: KR6j0681_007-X.yaml, hash: 'sha256:693556b1926a417b54a986ec51369c4d0045f1a9e2d9925b412d16dafefa6f72'}
+  - {seq: 8, filename: KR6j0681_008-X.yaml, hash: 'sha256:a3d8bebf90ec13967d20122cdf46f4a74305ec39242cc8d171d999cd48c7bc2b'}
+  - {seq: 9, filename: KR6j0681_009-X.yaml, hash: 'sha256:192c891a5bab0137851d5b1b823d26af1cb09ecb29d69af078f7b6ec97a00bcc'}
+  - {seq: 10, filename: KR6j0681_010-X.yaml, hash: 'sha256:63d76875d58fa29c0f7ae17dde2e5b94bac7b4357ff21273d13987b1e45f1f73'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0681_000-X.markers.yaml, hash: 'sha256:495b5c472b44306e1b3b1a96c16abddb737d3bdf153c579082be3e69fc5f78eb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0681_001-X.markers.yaml, hash: 'sha256:e917256590409b0e19f5841bd3b2ddf83604db04cc3adc07a1d0ebcfd79c51a1'}
+  - {seq: 2, role: markers, filename: assets/KR6j0681_002-X.markers.yaml, hash: 'sha256:ddbf7ca0ab1c04dafa3d00d061b54e0e8b57c5284df4d40d35ad0aadd49d2c4a'}
+  - {seq: 3, role: markers, filename: assets/KR6j0681_003-X.markers.yaml, hash: 'sha256:8464911783a3a03c954b8c9bcd051fc691a85c3ce90f3fed833adb0a12d3cf51'}
+  - {seq: 4, role: markers, filename: assets/KR6j0681_004-X.markers.yaml, hash: 'sha256:010a78878c9f6fa75b1c27401015f0b08057a5003befbd8f72df8a733b74f3c5'}
+  - {seq: 5, role: markers, filename: assets/KR6j0681_005-X.markers.yaml, hash: 'sha256:ba0199d2bed8e78c3591d0e571ae22728e5d4395aa7cb3d832f4fe0a4a262bdf'}
+  - {seq: 6, role: markers, filename: assets/KR6j0681_006-X.markers.yaml, hash: 'sha256:517bb96e7ffde1108bd47098375e85194f27703f02b6f461169f65504ba697cd'}
+  - {seq: 7, role: markers, filename: assets/KR6j0681_007-X.markers.yaml, hash: 'sha256:0cd6253109b5ff1b7ba2d3f4571aa9465bc19e00dddc3ebdc1b4ddc984f8737d'}
+  - {seq: 8, role: markers, filename: assets/KR6j0681_008-X.markers.yaml, hash: 'sha256:f747159c2890efdb16c52f65bc38f7546c4653302ef711544d595c1e4193a601'}
+  - {seq: 9, role: markers, filename: assets/KR6j0681_009-X.markers.yaml, hash: 'sha256:04a072d6732e66175f1fc5b302700cffa48822992fa3e1edc218b8f9d2c15523'}
+  - {seq: 10, role: markers, filename: assets/KR6j0681_010-X.markers.yaml, hash: 'sha256:3c4920da7b23ad06acc2de24db671bf52b7ea40832448e9f191c7922a656d69b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0681_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2902
+  label: 大佛頂首楞嚴正脉科
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0681_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 大佛頂首楞嚴正脉科
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0681_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 3916
+  label: 楞嚴正脉二卷科文
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0681_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 3346
+  label: 楞嚴正脉三卷科文
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0681_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 3694
+  label: 楞嚴正脉四卷科文
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0681_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 2865
+  label: 楞嚴正脉五卷科文
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0681_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 2891
+  label: 楞嚴正脉六卷科文
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0681_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 2080
+  label: 楞嚴正脉七卷科文
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0681_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 2515
+  label: 楞嚴正脉八卷科文
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0681_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 2137
+  label: 楞嚴正脉九卷科文
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0681_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 2107
+  label: 楞嚴正脉十卷科文
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0681_X_010-mulu-1
+    span:
+    - body
+    - 1686
+    - 1686
+  label: No. 273-A 大佛頂首楞嚴經正脉科判翻刻緣起
+  type: mulu
+  level: 1
+hash: sha256:afaf60a93201a8edf84cc820bc0295cd8ffcaaf199b0379fcf31fc6b556d2cda
